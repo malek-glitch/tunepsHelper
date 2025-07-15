@@ -1,0 +1,15 @@
+{
+  "version": "v1.0.0",
+  "notes": "first release",
+  "pub_date": "2025-07-15T15:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/youruser/yourrepo/releases/download/v1.2.3/YourApp.msi.zip",
+      "signature": "<contents of YourApp.msi.zip.sig>"
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/youruser/yourrepo/releases/download/v1.2.3/YourApp.app.tar.gz",
+      "signature": "<contents of YourApp.app.tar.gz.sig>"
+    }
+  }
+}
